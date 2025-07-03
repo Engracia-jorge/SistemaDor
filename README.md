@@ -37,7 +37,7 @@ Sistema de monitoramento e gestão de dor crônica, pensado para trabalhadores q
 > (Adicione imagens aqui usando o Markdown)
 ```markdown
 
-![Tela de login](img/index.png)
-![Painel do trabalhador](img/trabalhador1.png)
+![Tela de login](index.png)
+![Painel do trabalhador](dashboard.png)
 ![Email enviado ao medico](img/email.png)
 ![Relatório PDF](img/relatorio.png)
