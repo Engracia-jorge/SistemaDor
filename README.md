@@ -38,6 +38,8 @@ Sistema de monitoramento e gestão de dor crônica, pensado para trabalhadores q
 ```markdown
 
 ![Tela de login](index.png)
-![Painel do trabalhador](dashboard.png)
-![Email enviado ao medico](img/email.png)
+![Painel do trabalhador](dashboard.png)<img width="838" alt="dashboard" src="https://github.com/user-attachments/assets/1a0baecd-7f11-435c-b7b3-5cdddf670beb" />
+
+![Email enviado ao medico](img/email.png)<img width="941" alt="index" src="https://github.com/user-attachments/assets/a3652666-5e56-477f-b18b-4da4e5d0f6b2" />
+
 ![Relatório PDF](img/relatorio.png)
