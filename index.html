@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Bem-vindo ao Sistema de Controle de Dor</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #001f3f; /* Azul escuro */
+            height: 100vh; /* Garante que o fundo cubra toda a tela */
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: white; /* Texto branco para contraste */
+        }
+        .btn-container {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mb-4">Bem-vindo ao Sistema</h1>
+        <p>Gerencie registros de dor, exames e notificações.</p>
+        <div class="btn-container">
+            <a href="login/login.php" class="btn btn-primary">🔐 Entrar</a>
+            <a href="trabalhador/registro_trabalhador.php" class="btn btn-success">📝 Criar Conta</a>
+        </div>
+    </div>
+</body>
+</html>
